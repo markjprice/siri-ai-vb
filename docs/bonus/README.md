@@ -11,3 +11,7 @@
 ## [Local AI with Open Models](local-models/README.md)
 
 [![Local AI with Open Models](local-models/Hero.png)](local-models/README.md)
+
+## [Using iPhone as an Intelligent Personal Hub](iphone-hub/README.md)
+
+[![Using iPhone as an Intelligent Personal Hub](iphone-hub/Hero.png)](iphone-hub/README.md)

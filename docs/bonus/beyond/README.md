@@ -1,9 +1,9 @@
-> **A free bonus online-only guide for *Claude Visual Bible* — not included in the print edition**
+> **A free bonus online-only guide for *Siri AI Visual Bible* — not included in the print edition**
 
 ![Beyond Your First AI](Bonus-Chapter-Beyond-Your-First-AI-Hero.png)
 
 - [Introduction](#introduction)
-- [Chapter 1: Comparing Claude to ChatGPT](#chapter-1-comparing-claude-to-chatgpt)
+- [Chapter 1: Comparing Siri AI to ChatGPT or Claude](#chapter-1-comparing-siri-ai-to-chatgpt-or-claude)
   - [What makes each one distinct](#what-makes-each-one-distinct)
   - [Same idea, different name](#same-idea-different-name)
   - [Cost and plans](#cost-and-plans)
@@ -34,7 +34,7 @@
 
 # Introduction
 
-In *Claude Visual Bible*, *Book 1* to *Book 4* taught you to work with Claude: how to ask it good questions, build real results, automate your own workflows, and use it to advance your career. Claude still belongs at the center of that work. This bonus book adds one more skill: knowing when a different AI is the better tool for a specific job, or a backup when your primary AI is unavailable.
+In *Siri AI Visual Bible*, *Book 1* to *Book 4* taught you to work with Siri AI: how to ask it good questions, build real results, automate your own shortcuts, and use it to live your life better. Siri AI still belongs at the center of your personal life because it's always with you on your most personal device: your phone. This bonus book adds one more skill: knowing when a different AI is the better tool for a specific job, or a backup when your primary AI is unavailable.
 
 You will meet four alternatives: 
 1. **OpenAI ChatGPT** is sometimes the stronger choice for a broader ecosystem.
@@ -42,11 +42,11 @@ You will meet four alternatives:
 3. **Mistral Vibe**, from the French company Mistral AI, matters if you work under European data rules.
 4. **DeepSeek**, **Qwen**, and **Kimi** trade a smaller support ecosystem for a lower price, with a privacy trade-off worth understanding first.
 
-This guide is not a recommendation to leave Claude. It is also not a full buyer's guide to every AI assistant on the market. Treat it as a short field guide: enough to recognize each tool by name, know its one or two strongest uses, and decide for yourself when it earns a place next to Claude on your desktop.
+This guide is not a recommendation to leave Siri AI. It is also not a full buyer's guide to every AI assistant on the market. Treat it as a short field guide: enough to recognize each tool by name, know its one or two strongest uses, and decide for yourself when it earns a place next to Claude on your desktop.
 
-# Chapter 1: Comparing Claude to ChatGPT
+# Chapter 1: Comparing Siri AI to ChatGPT or Claude
 
-ChatGPT is the AI assistant you are most likely to hear mentioned alongside Claude. Both are general-purpose assistants built by AI research companies, and both can write, summarize, analyze, and answer questions in plain language. The differences show up in where each one is strongest.
+ChatGPT and Claude are the AI assistants you are most likely to hear mentioned. Both are general-purpose destination AI assistants built by AI research companies, and both can write, summarize, analyze, and answer questions in plain language. The differences show up in where each one is strongest.
 
 ## What makes each one distinct
 
@@ -118,7 +118,7 @@ Now let's look at using Google Gemini as a third AI choice.
 
 # Chapter 2: Google Gemini as a backup AI
 
-Google Gemini is worth a second look once you outgrow occasional use of ChatGPT, especially if you already use Google's products. Think of Gemini as a second opinion you keep on hand, not a replacement for the assistant you already trust.
+Google Gemini is worth a second look once you outgrow occasional use of ChatGPT or Claude, especially if you already use Google's other products like Gmail, Calendar, and Google Docs. Think of Gemini as a second opinion you keep on hand, not a replacement for the assistant you already trust.
 
 ## What makes it distinct
 
@@ -175,7 +175,7 @@ This compliance angle returns in *Chapter 4*, when we look at the opposite end o
 
 ## Try it now
 
-Ask Mistral Vibe and Claude the same question in a European language other than English, such as French or German. Compare the accuracy and natural phrasing of each response with a native or fluent speaker if you have one available.
+Ask Mistral Vibe and Claude or ChatGPT the same question in a European language other than English, such as French or German. Compare the accuracy and natural phrasing of each response with a native or fluent speaker if you have one available.
 
 ### Check the result
 - [ ] Did both assistants answer in the requested language without switching back to English?

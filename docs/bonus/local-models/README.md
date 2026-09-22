@@ -1,4 +1,4 @@
-> **A free bonus online-only guide to the *Claude Visual Bible*, not included in the print edition**
+> **A free bonus online-only guide to the *Siri AI Visual Bible*, not included in the print edition**
 
 # Bonus Book: Local AI Models
 

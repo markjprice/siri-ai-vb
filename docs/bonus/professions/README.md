@@ -1,4 +1,4 @@
-> **A free bonus online-only guide for *ChatGPT Visual Bible*, not included in the print edition**
+> **A free bonus online-only guide for *Siri AI Visual Bible*, not included in the print edition**
 
 ![Profession-Specific Prompts](Hero.png)
 
@@ -31,9 +31,9 @@
 
 # Introduction
 
-In *ChatGPT Visual Bible*, *Book 1* to *Book 4* taught you how to write a good prompt for almost any task. This guide adds a layer that general prompting skill does not cover: the specific duties, risks, and rules that come with your profession.
+In *Siri AI Visual Bible*, *Book 1* to *Book 4* taught you how to write a good prompt for almost any task. This guide adds a layer that general prompting skill does not cover: the specific duties, risks, and rules that come with your profession.
 
-A lawyer, a nurse, a teacher, and a real estate agent can all ask ChatGPT to draft a letter. Only one of them needs to worry about attorney-client privilege before doing it. This guide walks through fourteen professions where using AI carries a duty or risk beyond the general advice throughout *ChatGPT Visual Bible*, along with adaptable prompts for each.
+A lawyer, a nurse, a teacher, and a real estate agent can all ask Siri AI to draft a letter. Only one of them needs to worry about attorney-client privilege before doing it. This guide walks through fourteen professions where using AI carries a duty or risk beyond the general advice throughout *Siri AI Visual Bible*, along with adaptable prompts for each.
 
 Each profession includes a United States paragraph and a United Kingdom paragraph, because those are the two regulatory systems this guide can cover in depth. If you work in a different country, or your role sits under a devolved UK regulator (Scotland and Northern Ireland often run separate legal, education, and professional-conduct systems from England and Wales), use the prompt at the end of each section to research your own local rules. Treat the US and UK paragraphs as worked examples of the kind of duty to look for, not as the only two that matter.
 
@@ -151,7 +151,7 @@ What public records or freedom of information rules apply to government staff us
 
 Healthcare professionals work under the Health Insurance Portability and Accountability Act (HIPAA), which protects patient health information from being shared with anyone or anything that has not agreed to protect it the same way, typically through a business associate agreement, a contract that legally binds a vendor to HIPAA's privacy and security rules. The US Department of Health and Human Services' Office for Civil Rights has made clear that HIPAA's technical safeguards apply to any AI system that touches protected health information, and that a vendor's own security claims do not remove your organization's responsibility to verify them.
 
-In the United Kingdom, NHS England's own guidance tells staff not to enter personal, confidential, or business-sensitive data into public generative AI tools such as ChatGPT, under the UK General Data Protection Regulation (UK GDPR) and the wider duty of patient confidentiality. Reusing patient data for training or research purposes generally requires either removing identifying details or, where that is not possible, a formal application to the Health Research Authority's Confidentiality Advisory Group.
+In the United Kingdom, NHS England's own guidance tells staff not to enter personal, confidential, or business-sensitive data into public generative AI tools such as Siri AI, under the UK General Data Protection Regulation (UK GDPR) and the wider duty of patient confidentiality. Reusing patient data for training or research purposes generally requires either removing identifying details or, where that is not possible, a formal application to the Health Research Authority's Confidentiality Advisory Group.
 
 Mental health and substance-use records carry even stricter protection than general medical records; the next section covers that separately.
 
