@@ -1,0 +1,24 @@
+FAMILY GROUP CHAT: Harper family (Elena, David, Maya, Jake, Rose)
+Sample text messages for Chapter 1.8. All names, times, and places are fictional.
+
+[Mon, Oct 5, 7:12 PM] Rose: Good evening, everyone. How was school today, Jake?
+[Mon, Oct 5, 7:20 PM] Jake: Good. Practice went long, though.
+[Mon, Oct 5, 7:41 PM] Elena: Reminder that I have a late client call Thursday, so David is driving.
+[Tue, Oct 6, 6:05 PM] David: Posting the soccer schedule so everyone has it.
+[Tue, Oct 6, 6:05 PM] David: SOCCER SCHEDULE, Saturday games at Heritage Park
+  Oct 17: vs Lakeside FC, 10:00 AM, Field 2
+  Oct 24: vs Riverbend United, 10:00 AM, Field 2
+  Oct 31: vs Cedar Hill SC, 10:00 AM, Field 3
+[Tue, Oct 6, 6:30 PM] Rose: Thank you, David. I will put those on my fridge calendar.
+[Wed, Oct 14, 8:02 AM] Maya: Can someone send me the dinner plan for Sunday? Might drive home Saturday night.
+[Wed, Oct 14, 8:15 AM] Elena: Pasta night. We eat around 6.
+[Wed, Oct 14, 6:48 PM] Jake: Coach says the field is being resurfaced. Some games are moving.
+[Thu, Oct 15, 5:37 PM] David: UPDATED SOCCER SCHEDULE (this replaces the earlier one)
+  Oct 17: vs Lakeside FC, 10:00 AM, Field 2 (no change)
+  Oct 24: vs Riverbend United, 11:30 AM, Field 4 (new time and field)
+  Oct 31: vs Cedar Hill SC, 9:00 AM, Field 3 (new time)
+  Nov 7:  vs Oakmont Rovers, 1:00 PM, Field 1 (added)
+[Thu, Oct 15, 5:44 PM] Jake: Thanks Dad. Nov 7 is the last regular season game.
+[Thu, Oct 15, 6:10 PM] Rose: Wonderful. I will bring oranges for the team.
+[Fri, Oct 16, 7:22 PM] Elena: Who can bring Jake's cleats to the Saturday game? He left them in the car.
+[Fri, Oct 16, 7:25 PM] David: I have them.

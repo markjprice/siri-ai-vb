@@ -1,0 +1,23 @@
+Auto insurance options (sample quotes)
+
+Option 1: SafeHarbor Basic
+Premium: US$88 per month
+Deductible: US$1,000
+Liability coverage: 50/100/50
+Roadside assistance: not included
+Rental car coverage: not included
+
+Option 2: Summit Standard
+Premium: US$121 per month
+Deductible: US$500
+Liability coverage: 100/300/100
+Roadside assistance: included
+Rental car coverage: up to US$30 per day
+
+Option 3: Pinecrest Premium
+Premium: US$164 per month
+Deductible: US$250
+Liability coverage: 250/500/250
+Roadside assistance: included
+Rental car coverage: up to US$50 per day
+Accident forgiveness: included

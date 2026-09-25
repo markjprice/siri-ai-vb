@@ -1,0 +1,8 @@
+SAVED RESEARCH PAGE (as captured by a Safari extension)
+Sample text for Chapter 3.13. This is the optional second input. Delete it to test the "no saved page" case.
+
+Title: How small teams choose project management tools
+Address: https://www.example.com/articles/how-small-teams-choose-tools
+Published: October 6, 2026
+Tag: audience research
+Relevance rating (1 to 5): 4

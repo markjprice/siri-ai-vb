@@ -1,0 +1,25 @@
+Refrigerator listings (sample)
+
+Listing A: Northfield 18 cu ft top-freezer
+Price: US$749
+Capacity: 18 cubic feet
+Energy: Energy Star certified, about US$52 per year to run
+Warranty: 1 year parts and labor
+Delivery: free, 5 to 7 days
+Reviews: 4.3 out of 5 (1,204 reviews)
+
+Listing B: Aldergate 22 cu ft French door
+Price: US$1,299
+Capacity: 22 cubic feet
+Energy: Energy Star certified, about US$68 per year to run
+Warranty: 2 years parts and labor
+Delivery: US$79, 2 to 3 days
+Reviews: 4.6 out of 5 (863 reviews)
+
+Listing C: Brookline 20 cu ft side-by-side
+Price: US$999
+Capacity: 20 cubic feet
+Energy: not Energy Star certified, about US$96 per year to run
+Warranty: 90 days
+Delivery: free, 10 to 14 days
+Reviews: 3.9 out of 5 (2,015 reviews)

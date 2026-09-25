@@ -1,0 +1,10 @@
+SAMPLE NOTES FOR CHAPTER 3.9
+Two notes from Elena's Notes app. The first line of each note is its tag, which the Find Notes action uses. Names are fictional.
+
+----- NOTE 1 -----
+#Whitfield
+Renewal call with Grant: wants 24 months at current rate. Open: reporting start date, insurance certificate, signed amendment. Next step: send revised draft by Friday.
+
+----- NOTE 2 -----
+#Whitfield
+Finance call with Dana: Q2 invoice question on US$4,800 expert fees. Sam is pulling the breakdown. Dana wants a copy of the fee schedule. Follow-up call requested for Thursday.
