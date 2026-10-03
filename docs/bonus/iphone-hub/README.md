@@ -8,6 +8,7 @@ Build a small, connected system in which your iPhone can find what matters, show
   - [Why iPhone Duo could be the best version of the hub](#why-iphone-duo-could-be-the-best-version-of-the-hub)
 - [Your iPhone already sits in the middle](#your-iphone-already-sits-in-the-middle)
 - [A larger surface that still fits in your pocket](#a-larger-surface-that-still-fits-in-your-pocket)
+  - [M-series chip timeline](#m-series-chip-timeline)
 
 
 # Audience and prerequisites
@@ -102,3 +103,6 @@ Use this rule:
 
 The best personal hub is not the device that tries to do everything. It is the device that helps you recognize what should happen next and move the task to the right place.
 
+## M-series chip timeline
+
+![M-series chip timeline](m-series-timeline.png)
