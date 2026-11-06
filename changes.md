@@ -5,6 +5,7 @@ This page lists changes to Siri AI, Apple Intelligence, and related features tha
 > **Last updated:** 30 October 2026
 
 - [Changes for *Siri AI Visual Bible*](#changes-for-siri-ai-visual-bible)
+- [5 November 2026 – Siri AI opens to all developers (Developer Preview)](#5-november-2026--siri-ai-opens-to-all-developers-developer-preview)
 - [26 October 2026: iOS 27.2 released](#26-october-2026-ios-272-released)
   - [New: Excluded Apps setting](#new-excluded-apps-setting)
   - [New: Siri AI recalls past conversations](#new-siri-ai-recalls-past-conversations)
@@ -18,6 +19,23 @@ This page lists changes to Siri AI, Apple Intelligence, and related features tha
   - [Not at launch](#not-at-launch)
 - [Unchanged since publication](#unchanged-since-publication)
 - [Not yet confirmed](#not-yet-confirmed)
+
+---
+
+# 5 November 2026 – Siri AI opens to all developers (Developer Preview)
+
+**Source:** Apple Developer News, [*Siri AI is now open to all developers*](https://developer.apple.com/news/?id=gdk2umrf), 3 November 2026
+
+On 3 November 2026, Apple released a **Developer Preview** that lets *any* developer integrate their app with Siri AI. Before this, Siri integration was limited to existing Siri capabilities and Apple's own apps. The preview ships with the **27.3 betas** of iOS, iPadOS, macOS, and visionOS.
+
+Key points:
+
+- **App Intents is the integration route.** Apps expose their content and custom actions to Siri AI through the App Intents framework. Siri AI can then run those actions in response to natural-language requests, for example checking a delivery, booking a reservation, or placing an order.
+- **Apps get Siri AI's newer abilities.** Integrated apps can benefit from personal context understanding, onscreen awareness, and natural-language handling.
+- **New: skills.** Developers can define *skills* that teach Siri AI how to chain several actions into one experience for more complex requests.
+- **Broader Spotlight reach.** Siri AI can now surface any entity in the Spotlight semantic index, not only entities that match an existing schema.
+- **Apple's own apps are being updated as reference examples.** Apple has started rolling out the new capabilities across apps including Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos, Preview, Reminders, Safari, Shortcuts, and Weather. Apple's examples include finding a coffee shop you visited last week and archiving files not opened in over a year.
+- **Timeline.** App Store submission of Siri AI integrations opens in Spring 2027.
 
 ---
 
